@@ -4,6 +4,7 @@ header{
     background: rgba(229, 84, 115, 0.10);
     display: flex; 
     text-align: center;
+    margin-top: 100px;
     
 }
 body{
@@ -37,7 +38,9 @@ body{
 }
 .main{
     text-align: center;
+    margin-top: 100px;
 }
+   
 .main-pic{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -48,13 +51,40 @@ body{
 }
 .banar-main{
     text-align: center;
+    margin-top: 100px;
 }
 .main-flower{
     align-items: end;
 }
 .inta-gram{
     text-align: center;
+    margin-top: 100px;
+    
+
+    
 }
 .image-insta{
     margin: 24px;
+    
 }
+.latest-deel{
+    text-align: center;
+    margin-top: 100px;
+
+    
+}
+.spn-ti{
+    color: #E55473;
+    
+}
+.flower-shop{
+    text-align: center;
+    margin-top: 100px;
+}
+.feature{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
