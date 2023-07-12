@@ -1,0 +1,37 @@
+/* shered style */
+
+header{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex; 
+    text-align: center;
+    
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* nav{
+    display: flex;
+} */
+.nav- title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+    
+
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    
+}
