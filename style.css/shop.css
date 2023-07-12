@@ -38,6 +38,11 @@ body{
 .main{
     text-align: center;
 }
-.flower{
+.main-pic{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
     margin-left: 100px;
+    width: 464px;
+    height: 538px;
+
 }
